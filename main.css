@@ -1,0 +1,22 @@
+body {
+    background: #9ca704;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    padding: 20px 50px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    background-color: yellowgreen(0,117,229);
+    cursor: pointer;
+    color: rgb(158, 175, 0);
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+    box-shadow: 0px 5px 10px 
+    #000;    
+}
